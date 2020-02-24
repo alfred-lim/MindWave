@@ -15,4 +15,4 @@ Repository for [Lim and Chia (2015) — Analysis of single-electrode EEG rhythms
       doi = {10.7763/IJCTE.2015.V7.947}
     }
 
-This code was tested on an Ubuntu 16.04 system using Tensorflow 1.2.1.
+This code was tested using MATLAB 2013 and Thinkgear.dll 2010.
