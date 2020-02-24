@@ -11,7 +11,8 @@ Repository for [Lim and Chia (2015) — Analysis of single-electrode EEG rhythms
       number={2},
       pages={149},
       year={2015},
-      publisher={IACSIT Press}
+      publisher={IACSIT Press},
+      doi = {10.7763/IJCTE.2015.V7.947}
     }
 
 This code was tested on an Ubuntu 16.04 system using Tensorflow 1.2.1.
